@@ -17,5 +17,23 @@ In addition to My academic pursuits, I also place importance on maintaining an a
 I am passionate about learning new technologies and I am a diligent learner. I am constantly seeking opportunities to expand My knowledge and acquire new skills. My ambition and drive are noteworthy qualities, as I am committed to working hard to achieve My goals.
 
 --------------------------
+## Skills: 
+### Frontend 
+* HTML & CSS :star:
+* Java Script
+* Github, Git
+* Bootstrap
+* React JS
+* Figma
+### Backend
+* Django
+* Rest API
+* SQL, PostgreSQL
+### Other
+* Python
+* Java
+* Android Studio
+* Problem Solving
+* Googling
 
 
