@@ -2,11 +2,11 @@
 ## Junior Frontend Developer
 --------------------------
 ## Personal Info:
-:telephone_receiver:**Phone**: +996777520700   
-:envelope:**Email**: bokiev.khushnud@gmail.com  
-:telephone_receiver:**Telegram**: @Iamkhushnud   
-:globe_with_meridians:**LinkedIn**: [bokievkhushnud](https://www.linkedin.com/in/bokievkhushnud/)   
-:computer:**GitHub**: [bokievkhushnud](https://github.com/bokievkhushnud/)
+:iphone: **Phone**: +996777520700   
+:envelope: **Email**: bokiev.khushnud@gmail.com  
+:telephone_receiver: **Telegram**: @Iamkhushnud   
+:globe_with_meridians: **LinkedIn**: [bokievkhushnud](https://www.linkedin.com/in/bokievkhushnud/)   
+:computer: **GitHub**: [bokievkhushnud](https://github.com/bokievkhushnud/)
 
 --------------------------
 ## About:
