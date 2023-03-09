@@ -1,3 +1,5 @@
+![profile_picture](profile-icon-png-898.png)
+
 # Khushnud Boqiev :sunglasses:
 ## Junior Frontend Developer
 --------------------------
@@ -19,7 +21,7 @@ I am passionate about learning new technologies and I am a diligent learner. I a
 --------------------------
 ## Skills :memo:: 
 ### Frontend 
-* HTML & CSS :star:
+* HTML & CSS
 * Java Script
 * Github, Git
 * Bootstrap
@@ -80,9 +82,6 @@ _Udemy_
 - Russian - Advanced
 - Persian - Native
 - Shugni  - Native
-
-
-
 
 
 
