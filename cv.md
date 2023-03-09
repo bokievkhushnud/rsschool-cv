@@ -62,6 +62,18 @@ _Aga Khan Agency for Habitat_
 --------------------------
 ## Education
 
+**Computer Science**  
+_University of Central Asia_  
+[01.09.2018 to 31.05.2023]
+
+**Data Structures and Algorithms**  
+_Coursera_  
+[01.10.2022 to 31.12.2022]
+
+**React JS**  
+_Udemy_  
+[01.10.2022 to in progress]
+
 
 
 
