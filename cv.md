@@ -1,7 +1,7 @@
-# Khushnud Boqiev
+# Khushnud Boqiev :sunglasses:
 ## Junior Frontend Developer
 --------------------------
-## Personal Info:
+## Personal Info :page_with_curl::
 :iphone: **Phone**: +996777520700   
 :envelope: **Email**: bokiev.khushnud@gmail.com  
 :telephone_receiver: **Telegram**: @Iamkhushnud   
@@ -9,7 +9,7 @@
 :computer: **GitHub**: [bokievkhushnud](https://github.com/bokievkhushnud/)
 
 --------------------------
-## About:
+## About  :pencil2::
 I am a dedicated Computer Science student currently enrolled at [UCA](https://ucentralasia.org/home). I have a strong passion for programming, with a particular interest in competitive programming and problem-solving. My long-term career goal is to become a high qualified software engineer, where I can leverage my skills and creativity to develop innovative software solutions.
 
 In addition to My academic pursuits, I also place importance on maintaining an active lifestyle. I enjoy sports such as football, as well as gym workouts and running. Furthermore, I find solace in music, which serves as a source of relaxation and inspiration for me. I am an outgoing and sociable individual, and I derive fulfillment from meeting new people and building meaningful relationships.
@@ -17,7 +17,7 @@ In addition to My academic pursuits, I also place importance on maintaining an a
 I am passionate about learning new technologies and I am a diligent learner. I am constantly seeking opportunities to expand My knowledge and acquire new skills. My ambition and drive are noteworthy qualities, as I am committed to working hard to achieve My goals.
 
 --------------------------
-## Skills: 
+## Skills :memo:: 
 ### Frontend 
 * HTML & CSS :star:
 * Java Script
@@ -37,7 +37,7 @@ I am passionate about learning new technologies and I am a diligent learner. I a
 * Googling
 
 --------------------------
-## Code sample:
+## Code sample :computer::
 **Multiply**
 ```
 multiply = function (a, b) {
@@ -45,7 +45,7 @@ multiply = function (a, b) {
 }
 ```
 --------------------------
-## Work Experience
+## Work Experience :book::
 
 **FullStack Web Developer**  
 _University Of Central Asia_  
@@ -60,7 +60,7 @@ _Aga Khan Agency for Habitat_
 [01.06.2021 to 31.08.2021]
 
 --------------------------
-## Education
+## Education :trophy::
 
 **Computer Science**  
 _University of Central Asia_  
@@ -75,7 +75,7 @@ _Udemy_
 [01.10.2022 to in progress]
 
 --------------------------
-## Languages
+## Languages  :earth_americas::
 - English - Advanced
 - Russian - Advanced
 - Persian - Native
