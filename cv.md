@@ -43,7 +43,7 @@ I am passionate about learning new technologies and I am a diligent learner. I a
 multiply = function (a, b) {
   return a * b;
 }
-```js
+```
 --------------------------
 ## Work Experience
 
