@@ -36,4 +36,36 @@ I am passionate about learning new technologies and I am a diligent learner. I a
 * Problem Solving
 * Googling
 
+--------------------------
+## Code sample:
+**Multiply**
+```
+multiply = function (a, b) {
+  return a * b;
+}
+```
+--------------------------
+## Work Experience
+
+**FullStack Web Developer**  
+_University Of Central Asia_  
+[31.12.2022 - 30.04.2023]
+
+**Wordpress Intern**  
+_University Of Central Asia_  
+[18.10.2021 to 31.12.2022]
+
+**Python Django Intern**  
+_Aga Khan Agency for Habitat_  
+[01.06.2021 to 31.08.2021]
+
+--------------------------
+## Education
+
+
+
+
+
+
+
 
