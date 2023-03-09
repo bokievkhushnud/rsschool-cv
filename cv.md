@@ -74,6 +74,12 @@ _Coursera_
 _Udemy_  
 [01.10.2022 to in progress]
 
+--------------------------
+## Languages
+- English - Advanced
+- Russian - Advanced
+- Persian - Native
+- Shugni  - Native
 
 
 
