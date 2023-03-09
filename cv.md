@@ -41,7 +41,7 @@ I am passionate about learning new technologies and I am a diligent learner. I a
 --------------------------
 ## Code sample :computer::
 **Multiply**
-```
+```javascript
 multiply = function (a, b) {
   return a * b;
 }
