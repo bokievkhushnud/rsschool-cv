@@ -2,11 +2,11 @@
 ## Junior Frontend Developer
 --------------------------
 ## Personal Info:
-**Phone**: +996777520700   
-**Email**: bokiev.khushnud@gmail.com  
-**Telegram**: @Iamkhushnud   
-**LinkedIn**: [bokievkhushnud](https://www.linkedin.com/in/bokievkhushnud/)   
-**GitHub**: [bokievkhushnud](https://github.com/bokievkhushnud/)
+:telephone_receiver:**Phone**: +996777520700   
+:envelope:**Email**: bokiev.khushnud@gmail.com  
+:telephone_receiver:**Telegram**: @Iamkhushnud   
+:globe_with_meridians:**LinkedIn**: [bokievkhushnud](https://www.linkedin.com/in/bokievkhushnud/)   
+:computer:**GitHub**: [bokievkhushnud](https://github.com/bokievkhushnud/)
 
 --------------------------
 ## About:
@@ -43,7 +43,7 @@ I am passionate about learning new technologies and I am a diligent learner. I a
 multiply = function (a, b) {
   return a * b;
 }
-```
+```js
 --------------------------
 ## Work Experience
 
